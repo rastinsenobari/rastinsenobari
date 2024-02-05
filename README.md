@@ -8,7 +8,7 @@
    <br/> From linux lovers
    <br/> Interested in the free world
    <br/> I will find a way or make a way
-   <br/> 😄 Pronouns: 🐊
+   <br/> 🐊
   </p>
 
 My Skills:
@@ -21,11 +21,5 @@ My Skills:
 ![C](https://img.shields.io/badge/-C-000?&logo=c)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=mariadb)
 
-
-
-  
-
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rastinsenobari&show_icons=true&theme=cobalt)
-
 </div>
