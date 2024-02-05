@@ -1,18 +1,17 @@
-### Hi there 👋
+### Hi, I'm Rastin
+<div align="center">
+  <p align="center">
 
-<!--
-**rastinsenobari/rastinsenobari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <br/> cs student
+ <br/> From linux lovers
+ <br/> Interested in the free world
+ <br/> I will find a way or make a way
+<br/>
+ 😄 Pronouns: 🐊
+ 
+  </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github<br/>readme<br/>stats.vercel.app/api?username=rastinsenobari&show_icons=true&theme=cobalt)
 
-![Rastin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rastinsenobari&show_icons=true&theme=cobalt)
+</div>
