@@ -1,4 +1,4 @@
-### Welcom, I'm Rastin
+# Welcom, I'm Rastin
 
 <div align="center">
   <p align="center">
@@ -18,8 +18,17 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
 ![python](https://img.shields.io/badge/-python-000?&logo=python)
+![selenium](https://img.shields.io/badge/-selenium-000?&logo=selenium)
 ![C](https://img.shields.io/badge/-C-000?&logo=c)
+![Go](https://img.shields.io/badge/-Go-000?&logo=go)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=mariadb)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rastinsenobari&show_icons=true&theme=cobalt)
 </div>
+
+## Get in touch
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/rastin-senobari-42005524a/)
+- [![Gmail](https://img.shields.io/badge/-Gmail-darkgreen?&style=flat&logo=gmail&labelColor=darkgreen)](mailto:ali.rastin.senobari@gmail.com)
+
